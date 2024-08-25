@@ -1,0 +1,17 @@
+pandas
+numpy
+requests
+xarray
+dask
+netCDF4
+h5netcdf
+aiohttp
+intake
+intake-esm
+fsspec
+s3fs
+rioxarray
+rasterio
+geopandas
+matplotlib
+cdsapi  # This is for the Copernicus Climate Data Store API
